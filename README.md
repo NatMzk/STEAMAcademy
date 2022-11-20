@@ -1,4 +1,4 @@
-# STEAMAcademy
+# STEAMAcademy #GirlsCodeFun
 
 Hello! This project is my website that is using following technologies:
 
